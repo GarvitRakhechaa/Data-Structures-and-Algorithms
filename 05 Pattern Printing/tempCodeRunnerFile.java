@@ -1,3 +1,3 @@
-        Scanner sc = new Scanner(System.in);
-        System.out.println("enter rows: ");
-        int rows = sc.nextInt();
+            // for(int var2 = 1; var2<=i;var2++){
+            //     System.out.print(var2+" ");
+            // }
